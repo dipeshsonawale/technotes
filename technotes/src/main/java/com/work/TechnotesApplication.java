@@ -8,7 +8,7 @@ public class TechnotesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TechnotesApplication.class, args);
-		System.out.println("Hello World !!!!!!");
+		System.out.println("Hello World Dev !!!");
 	}
 
 }
